@@ -1,0 +1,13 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="LsXuanWu">
+      <DisplayName>Huyền Vũ Miêu Miêu</DisplayName>
+      <Desc>Huyền Vũ Miêu Miêu là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+      <TalkBefore>Cách,</TalkBefore>
+      <TalkAfter>, Cách!</TalkAfter>
+    </Text>
+  </List>
+</Texts>
+
+
+

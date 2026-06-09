@@ -1,0 +1,21 @@
+<Texts Type="Thing">
+  <List>
+    <Text Name="XuanWu_NormalAttack" sParam="Item">
+      <ThingName>Âm Đan Huyền Vũ</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Nguyên Long Quỷ Thủy</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Nguyên Long Quỷ Thủy</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Nguyên Long Quỷ Thủy</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Nguyên Long Quỷ Thủy</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="XuanWu_NormalAttack2" sParam="Item">
+      <ThingName>Dương Đan Huyền Vũ</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Nguyên Long Bính Hỏa</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Nguyên Long Bính Hỏa</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Nguyên Long Bính Hỏa</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Nguyên Long Bính Hỏa</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+  </List>
+</Texts>
+
+
+

@@ -1,0 +1,27 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Boss_Long_Test">
+      <DisplayName>Giao Long</DisplayName>
+      <FightParts.0.DisplayName>Cơ thể</FightParts.0.DisplayName>
+      <FightParts.1.DisplayName>Đuôi rồng</FightParts.1.DisplayName>
+      <FightParts.2.DisplayName>Sừng rồng</FightParts.2.DisplayName>
+      <FightParts.3.DisplayName>Móng trước trái của rồng</FightParts.3.DisplayName>
+      <FightParts.4.DisplayName>Móng trước phải của rồng</FightParts.4.DisplayName>
+      <FightParts.5.DisplayName>Móng sau trái của rồng</FightParts.5.DisplayName>
+      <FightParts.6.DisplayName>Móng sau phải của rồng</FightParts.6.DisplayName>
+      <FightParts.7.DisplayName>Vảy ngược</FightParts.7.DisplayName>
+    </Text>
+    <Text Name="Boss_Feng_Test">
+      <DisplayName>Phượng hung</DisplayName>
+      <FightParts.0.DisplayName>Cơ thể</FightParts.0.DisplayName>
+      <FightParts.1.DisplayName>Lông đầu</FightParts.1.DisplayName>
+      <FightParts.2.DisplayName>Cánh trái</FightParts.2.DisplayName>
+      <FightParts.3.DisplayName>Cánh phải</FightParts.3.DisplayName>
+      <FightParts.4.DisplayName>Lông đuôi</FightParts.4.DisplayName>
+      <FightParts.5.DisplayName>Thái Dương Chi Nhãn</FightParts.5.DisplayName>
+    </Text>
+  </List>
+</Texts>
+
+
+

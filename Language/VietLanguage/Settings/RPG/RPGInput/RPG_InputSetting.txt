@@ -1,0 +1,40 @@
+Name	Des	InitialKey1	InitialKey2	IgnoreCombinationkeys	Lock	Type
+功能名称	功能描述	快捷键组1	快捷键组2	忽略组合键冲突	锁定，玩家不可修改	Loại hình
+      Lên		W	UpArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Người chơi
+Xuống		S	DownArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Người chơi
+Trái		A	LeftArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Người chơi
+Phải		D	RightArrow	LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Người chơi
+Tương tác với vật phẩm		E				Người chơi
+Chuyển đổi đội trưởng		LeftControl				Người chơi
+Chuyển đổi đối tượng		Tab				Người chơi
+Bản đồ nhỏ		Comma				Giao diện
+Tùy chọn tương tác 1		F1				Tương tác
+Tùy chọn tương tác 2		F2				Tương tác
+Tùy chọn tương tác 3		F3				Tương tác
+Tùy chọn tương tác 4		F4				Tương tác
+Tùy chọn tương tác 5		F5				Tương tác
+Tùy chọn tương tác 6		F6				Tương tác
+Tùy chọn tương tác 7		F7				Tương tác
+Tùy chọn tương tác 8		F8				Tương tác
+Tùy chọn tương tác 9		F9				Tương tác
+Tùy chọn tương tác 10		F10				Tương tác
+Tùy chọn tương tác 11		F11				Tương tác
+Tùy chọn tương tác 12		F12				Tương tác
+Kỹ năng 1		Alpha1				Kỹ năng
+Kỹ năng 2		Alpha2				Kỹ năng
+Kỹ năng 3		Alpha3				Kỹ năng
+Kỹ năng 4		Alpha4				Kỹ năng
+Kỹ năng 5		Alpha5				Kỹ năng
+Kỹ năng 6		Alpha6				Kỹ năng
+Kỹ năng 7		Alpha7				Kỹ năng
+Kỹ năng 8		Alpha8				Kỹ năng
+Kỹ năng 9		Alpha9				Kỹ năng
+Kỹ năng 10		Alpha0				Kỹ năng
+Trang trước bảng kỹ năng		Minus				Kỹ năng
+Trang sau bảng kỹ năng		Equals				Kỹ năng
+Chuyển đổi trạng thái bay		Space		LeftAlt+LeftShift+LeftControl+RightAlt+RightShift+RightControl		Người chơi
+Chọn đối tượng tấn công		BackQuote				Người chơi
+Tăng tốc		LeftShift				Người chơi
+Ẩn/Hiện giao diện		F11				Hệ thống
+Ngắt hành động	Ngắt quãng hành động hiện tại, một số hành động không thể ngắt quãng.	LeftAlt+S				Người chơi
+
